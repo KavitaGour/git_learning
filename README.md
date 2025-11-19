@@ -1,2 +1,3 @@
 # git_learning
-Yhi
+This is my learning repo
+
